@@ -1,4 +1,5 @@
 # ansible-mac
 
-## USAGE
-$ ansible-playbook localhost.yml -i hosts
+### USAGE
+
+    $ ansible-playbook localhost.yml -i hosts
